@@ -14,9 +14,9 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en">
+    <html lang="en" suppressHydrationWarning>
       {/* text-base md:text-xs lg:text-sm */}
-      <body className="antialiased">
+      <body className="antialiased" suppressHydrationWarning>
         <LocalStorageProvider>
           <SidebarProvider>
             {children}
