@@ -149,7 +149,7 @@ export function AppSidebar({ ...props }: React.ComponentProps<typeof Sidebar>) {
   return (
     <Sidebar {...props}>
       <SidebarHeader className="flex h-16 justify-center gap-2 ">
-        StageGo Admin
+        test Admin
       </SidebarHeader>
       <SidebarContent>
         <SidebarMenu items={data.navMain}></SidebarMenu>

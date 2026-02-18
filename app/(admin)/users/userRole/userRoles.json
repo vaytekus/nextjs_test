@@ -132,7 +132,7 @@
             "statusId": 3,
             "surname": "Bezzubko",
             "name": "Anna",
-            "userPicUrl": "https://res.cloudinary.com/stagego/image/upload/q_auto,w_150,h_150,c_thumb,g_faces/v1626438404/UserAvatars/wnsvplzvdufhqrkzsvdv.jpg",
+            "userPicUrl": "https://res.cloudinary.com/test/image/upload/q_auto,w_150,h_150,c_thumb,g_faces/v1626438404/UserAvatars/wnsvplzvdufhqrkzsvdv.jpg",
             "company": null,
             "dateOfBirth": "1989-12-31T23:00:00.404+01:00",
             "sex": "None",

@@ -95,9 +95,9 @@
             "parentCategoryId": 25390,
             "description": null,
             "imageComment": null,
-            "imageUrl": "https://res.cloudinary.com/stagego/image/upload/v1668518274/StgAdmin/l62tne9vd2g1pewt0hsb.jpg",
+            "imageUrl": "https://res.cloudinary.com/test/image/upload/v1668518274/StgAdmin/l62tne9vd2g1pewt0hsb.jpg",
             "link": "/categories?id=37251",
-            "defaultImageUrlIfImageCommentDoesNotExist": "https://res.cloudinary.com/stagego/image/upload/v1650988092/qd7mfwfspypu1orobujl.jpg"
+            "defaultImageUrlIfImageCommentDoesNotExist": "https://res.cloudinary.com/test/image/upload/v1650988092/qd7mfwfspypu1orobujl.jpg"
           },
           "venue": {
             "id": 26821,
@@ -515,9 +515,9 @@
             "parentCategoryId": 25390,
             "description": null,
             "imageComment": null,
-            "imageUrl": "https://res.cloudinary.com/stagego/image/upload/v1656522743/aydqfepczkbp0b36d8dl.jpg",
+            "imageUrl": "https://res.cloudinary.com/test/image/upload/v1656522743/aydqfepczkbp0b36d8dl.jpg",
             "link": "/categories?id=39394",
-            "defaultImageUrlIfImageCommentDoesNotExist": "https://res.cloudinary.com/stagego/image/upload/v1650988083/luqsmxzl6fkywa6xvlu3.jpg"
+            "defaultImageUrlIfImageCommentDoesNotExist": "https://res.cloudinary.com/test/image/upload/v1650988083/luqsmxzl6fkywa6xvlu3.jpg"
           },
           "venue": {
             "id": 26768,
@@ -948,9 +948,9 @@
             "parentCategoryId": 1,
             "description": null,
             "imageComment": null,
-            "imageUrl": "https://res.cloudinary.com/stagego/image/upload/v1656523106/mas4v0uy9zrrtmcibaxr.jpg",
+            "imageUrl": "https://res.cloudinary.com/test/image/upload/v1656523106/mas4v0uy9zrrtmcibaxr.jpg",
             "link": "/categories?id=76792",
-            "defaultImageUrlIfImageCommentDoesNotExist": "https://res.cloudinary.com/stagego/image/upload/v1650988109/txwxc6e6g6zidudhd03v.jpg"
+            "defaultImageUrlIfImageCommentDoesNotExist": "https://res.cloudinary.com/test/image/upload/v1650988109/txwxc6e6g6zidudhd03v.jpg"
           },
           "venue": {
             "id": 26722,
@@ -1400,9 +1400,9 @@
             "parentCategoryId": 25390,
             "description": null,
             "imageComment": null,
-            "imageUrl": "https://res.cloudinary.com/stagego/image/upload/v1656522743/aydqfepczkbp0b36d8dl.jpg",
+            "imageUrl": "https://res.cloudinary.com/test/image/upload/v1656522743/aydqfepczkbp0b36d8dl.jpg",
             "link": "/categories?id=39394",
-            "defaultImageUrlIfImageCommentDoesNotExist": "https://res.cloudinary.com/stagego/image/upload/v1650988083/luqsmxzl6fkywa6xvlu3.jpg"
+            "defaultImageUrlIfImageCommentDoesNotExist": "https://res.cloudinary.com/test/image/upload/v1650988083/luqsmxzl6fkywa6xvlu3.jpg"
           },
           "venue": {
             "id": 26766,
@@ -1866,9 +1866,9 @@
             "parentCategoryId": 1,
             "description": null,
             "imageComment": null,
-            "imageUrl": "https://res.cloudinary.com/stagego/image/upload/v1656519240/kom5iluxu4jfjp9sp5sl.jpg",
+            "imageUrl": "https://res.cloudinary.com/test/image/upload/v1656519240/kom5iluxu4jfjp9sp5sl.jpg",
             "link": "/categories?id=37283",
-            "defaultImageUrlIfImageCommentDoesNotExist": "https://res.cloudinary.com/stagego/image/upload/v1650988096/avshxo44yuvp8smuobgy.jpg"
+            "defaultImageUrlIfImageCommentDoesNotExist": "https://res.cloudinary.com/test/image/upload/v1650988096/avshxo44yuvp8smuobgy.jpg"
           },
           "venue": {
             "id": 26826,
@@ -2346,9 +2346,9 @@
             "parentCategoryId": 1,
             "description": null,
             "imageComment": null,
-            "imageUrl": "https://res.cloudinary.com/stagego/image/upload/v1656520168/bzc1d8xhdevjc3lbgcx5.jpg",
+            "imageUrl": "https://res.cloudinary.com/test/image/upload/v1656520168/bzc1d8xhdevjc3lbgcx5.jpg",
             "link": "/categories?id=37424",
-            "defaultImageUrlIfImageCommentDoesNotExist": "https://res.cloudinary.com/stagego/image/upload/v1650988096/avshxo44yuvp8smuobgy.jpg"
+            "defaultImageUrlIfImageCommentDoesNotExist": "https://res.cloudinary.com/test/image/upload/v1650988096/avshxo44yuvp8smuobgy.jpg"
           },
           "venue": {
             "id": 26792,
@@ -2505,7 +2505,7 @@
               "faceValue": 61,
               "status": 0,
               "contentType": 1,
-              "thumbnailUrl": "https://res.cloudinary.com/stagego/image/upload/v1718278093/fe3deb39-63b3-41eb-b45b-1dc11510b378-aa61d3ec-b869-49c5-b8c9-27a7c5c74706-3987bc42-193a-466c-8cce-742e0afa9da8/newblob-790720_203_rang3_12_80_jhcgja.png",
+              "thumbnailUrl": "https://res.cloudinary.com/test/image/upload/v1718278093/fe3deb39-63b3-41eb-b45b-1dc11510b378-aa61d3ec-b869-49c5-b8c9-27a7c5c74706-3987bc42-193a-466c-8cce-742e0afa9da8/newblob-790720_203_rang3_12_80_jhcgja.png",
               "contentId": null
             },
             {
@@ -2517,7 +2517,7 @@
               "faceValue": 61,
               "status": 0,
               "contentType": 1,
-              "thumbnailUrl": "https://res.cloudinary.com/stagego/image/upload/v1718278099/6ae26fcf-57db-4485-8c67-cbb07c7fd466-c566f3c8-cf32-4c7b-99b3-5bb1720e405e-0bded7e8-ead6-4eb1-ba59-c99a4e778db3/newblob-790720_203_rang3_12_81_rwrjtc.png",
+              "thumbnailUrl": "https://res.cloudinary.com/test/image/upload/v1718278099/6ae26fcf-57db-4485-8c67-cbb07c7fd466-c566f3c8-cf32-4c7b-99b3-5bb1720e405e-0bded7e8-ead6-4eb1-ba59-c99a4e778db3/newblob-790720_203_rang3_12_81_rwrjtc.png",
               "contentId": null
             },
             {
@@ -2529,7 +2529,7 @@
               "faceValue": 61,
               "status": 0,
               "contentType": 1,
-              "thumbnailUrl": "https://res.cloudinary.com/stagego/image/upload/v1718278104/829b01b3-051f-4ad7-a1e1-286cdd73608a-c76d9b0a-e5cf-4df8-899f-7516b6685097-c6e7e31b-1743-4490-9b60-38f7352263fc/newblob-790720_203_rang3_12_82_r3tjli.png",
+              "thumbnailUrl": "https://res.cloudinary.com/test/image/upload/v1718278104/829b01b3-051f-4ad7-a1e1-286cdd73608a-c76d9b0a-e5cf-4df8-899f-7516b6685097-c6e7e31b-1743-4490-9b60-38f7352263fc/newblob-790720_203_rang3_12_82_r3tjli.png",
               "contentId": null
             },
             {
@@ -2541,7 +2541,7 @@
               "faceValue": 61,
               "status": 0,
               "contentType": 1,
-              "thumbnailUrl": "https://res.cloudinary.com/stagego/image/upload/v1718278109/17ccb97a-d803-494a-a804-ecab68b226e9-b1870ad1-3d0b-49cb-a5b0-7ebbe5387797-2632588d-b180-4dab-a68b-ef853aee85b7/newblob-790720_203_rang3_12_83_mbomei.png",
+              "thumbnailUrl": "https://res.cloudinary.com/test/image/upload/v1718278109/17ccb97a-d803-494a-a804-ecab68b226e9-b1870ad1-3d0b-49cb-a5b0-7ebbe5387797-2632588d-b180-4dab-a68b-ef853aee85b7/newblob-790720_203_rang3_12_83_mbomei.png",
               "contentId": null
             }
           ],
@@ -2574,8 +2574,8 @@
           "lastLoginTime": null,
           "creationTime": "0001-01-01T00:00:00",
           "password": null,
-          "userPicUrl": "https://res.cloudinary.com/stagego/image/upload/q_auto,w_150,h_150,c_thumb,g_faces/v1718289249/UserAvatars/wlyj3oysvms6bldggpif.jpg",
-          "userPicUrlDefaultIfEmpty": "https://res.cloudinary.com/stagego/image/upload/q_auto,w_150,h_150,c_thumb,g_faces/v1718289249/UserAvatars/wlyj3oysvms6bldggpif.jpg",
+          "userPicUrl": "https://res.cloudinary.com/test/image/upload/q_auto,w_150,h_150,c_thumb,g_faces/v1718289249/UserAvatars/wlyj3oysvms6bldggpif.jpg",
+          "userPicUrlDefaultIfEmpty": "https://res.cloudinary.com/test/image/upload/q_auto,w_150,h_150,c_thumb,g_faces/v1718289249/UserAvatars/wlyj3oysvms6bldggpif.jpg",
           "roleNames": null,
           "accessFailedCount": 0,
           "isLockoutEnabled": false,
@@ -2615,8 +2615,8 @@
                 "lastLoginTime": null,
                 "creationTime": "0001-01-01T00:00:00",
                 "password": null,
-                "userPicUrl": "https://res.cloudinary.com/stagego/image/upload/q_auto,w_150,h_150,c_thumb,g_faces/v1718289249/UserAvatars/wlyj3oysvms6bldggpif.jpg",
-                "userPicUrlDefaultIfEmpty": "https://res.cloudinary.com/stagego/image/upload/q_auto,w_150,h_150,c_thumb,g_faces/v1718289249/UserAvatars/wlyj3oysvms6bldggpif.jpg",
+                "userPicUrl": "https://res.cloudinary.com/test/image/upload/q_auto,w_150,h_150,c_thumb,g_faces/v1718289249/UserAvatars/wlyj3oysvms6bldggpif.jpg",
+                "userPicUrlDefaultIfEmpty": "https://res.cloudinary.com/test/image/upload/q_auto,w_150,h_150,c_thumb,g_faces/v1718289249/UserAvatars/wlyj3oysvms6bldggpif.jpg",
                 "roleNames": null,
                 "accessFailedCount": 0,
                 "isLockoutEnabled": false,
@@ -2655,8 +2655,8 @@
           "lastLoginTime": null,
           "creationTime": "0001-01-01T00:00:00",
           "password": null,
-          "userPicUrl": "https://res.cloudinary.com/stagego/image/upload/q_auto,w_150,h_150,c_thumb,g_faces/v1718289249/UserAvatars/wlyj3oysvms6bldggpif.jpg",
-          "userPicUrlDefaultIfEmpty": "https://res.cloudinary.com/stagego/image/upload/q_auto,w_150,h_150,c_thumb,g_faces/v1718289249/UserAvatars/wlyj3oysvms6bldggpif.jpg",
+          "userPicUrl": "https://res.cloudinary.com/test/image/upload/q_auto,w_150,h_150,c_thumb,g_faces/v1718289249/UserAvatars/wlyj3oysvms6bldggpif.jpg",
+          "userPicUrlDefaultIfEmpty": "https://res.cloudinary.com/test/image/upload/q_auto,w_150,h_150,c_thumb,g_faces/v1718289249/UserAvatars/wlyj3oysvms6bldggpif.jpg",
           "roleNames": null,
           "accessFailedCount": 0,
           "isLockoutEnabled": false,
@@ -2696,8 +2696,8 @@
                 "lastLoginTime": null,
                 "creationTime": "0001-01-01T00:00:00",
                 "password": null,
-                "userPicUrl": "https://res.cloudinary.com/stagego/image/upload/q_auto,w_150,h_150,c_thumb,g_faces/v1718289249/UserAvatars/wlyj3oysvms6bldggpif.jpg",
-                "userPicUrlDefaultIfEmpty": "https://res.cloudinary.com/stagego/image/upload/q_auto,w_150,h_150,c_thumb,g_faces/v1718289249/UserAvatars/wlyj3oysvms6bldggpif.jpg",
+                "userPicUrl": "https://res.cloudinary.com/test/image/upload/q_auto,w_150,h_150,c_thumb,g_faces/v1718289249/UserAvatars/wlyj3oysvms6bldggpif.jpg",
+                "userPicUrlDefaultIfEmpty": "https://res.cloudinary.com/test/image/upload/q_auto,w_150,h_150,c_thumb,g_faces/v1718289249/UserAvatars/wlyj3oysvms6bldggpif.jpg",
                 "roleNames": null,
                 "accessFailedCount": 0,
                 "isLockoutEnabled": false,
@@ -2806,9 +2806,9 @@
             "parentCategoryId": 25390,
             "description": null,
             "imageComment": null,
-            "imageUrl": "https://res.cloudinary.com/stagego/image/upload/v1668518274/StgAdmin/l62tne9vd2g1pewt0hsb.jpg",
+            "imageUrl": "https://res.cloudinary.com/test/image/upload/v1668518274/StgAdmin/l62tne9vd2g1pewt0hsb.jpg",
             "link": "/categories?id=37251",
-            "defaultImageUrlIfImageCommentDoesNotExist": "https://res.cloudinary.com/stagego/image/upload/v1650988092/qd7mfwfspypu1orobujl.jpg"
+            "defaultImageUrlIfImageCommentDoesNotExist": "https://res.cloudinary.com/test/image/upload/v1650988092/qd7mfwfspypu1orobujl.jpg"
           },
           "venue": {
             "id": 26885,
@@ -3312,9 +3312,9 @@
             "parentCategoryId": 1,
             "description": null,
             "imageComment": null,
-            "imageUrl": "https://res.cloudinary.com/stagego/image/upload/v1712106092/ymgyqy2z7tmnuzyezv5e.jpg",
+            "imageUrl": "https://res.cloudinary.com/test/image/upload/v1712106092/ymgyqy2z7tmnuzyezv5e.jpg",
             "link": "/categories?id=105304",
-            "defaultImageUrlIfImageCommentDoesNotExist": "https://res.cloudinary.com/stagego/image/upload/v1650988096/avshxo44yuvp8smuobgy.jpg"
+            "defaultImageUrlIfImageCommentDoesNotExist": "https://res.cloudinary.com/test/image/upload/v1650988096/avshxo44yuvp8smuobgy.jpg"
           },
           "venue": {
             "id": 26749,
@@ -3752,9 +3752,9 @@
             "parentCategoryId": 25390,
             "description": null,
             "imageComment": null,
-            "imageUrl": "https://res.cloudinary.com/stagego/image/upload/v1656522743/aydqfepczkbp0b36d8dl.jpg",
+            "imageUrl": "https://res.cloudinary.com/test/image/upload/v1656522743/aydqfepczkbp0b36d8dl.jpg",
             "link": "/categories?id=39394",
-            "defaultImageUrlIfImageCommentDoesNotExist": "https://res.cloudinary.com/stagego/image/upload/v1650988083/luqsmxzl6fkywa6xvlu3.jpg"
+            "defaultImageUrlIfImageCommentDoesNotExist": "https://res.cloudinary.com/test/image/upload/v1650988083/luqsmxzl6fkywa6xvlu3.jpg"
           },
           "venue": {
             "id": 26761,
@@ -4204,9 +4204,9 @@
             "parentCategoryId": 1,
             "description": null,
             "imageComment": null,
-            "imageUrl": "https://res.cloudinary.com/stagego/image/upload/v1656518462/fynjpstty3bjro6zezar.png",
+            "imageUrl": "https://res.cloudinary.com/test/image/upload/v1656518462/fynjpstty3bjro6zezar.png",
             "link": "/categories?id=38149",
-            "defaultImageUrlIfImageCommentDoesNotExist": "https://res.cloudinary.com/stagego/image/upload/v1650988083/luqsmxzl6fkywa6xvlu3.jpg"
+            "defaultImageUrlIfImageCommentDoesNotExist": "https://res.cloudinary.com/test/image/upload/v1650988083/luqsmxzl6fkywa6xvlu3.jpg"
           },
           "venue": {
             "id": 26741,
@@ -4663,9 +4663,9 @@
             "parentCategoryId": 1,
             "description": null,
             "imageComment": null,
-            "imageUrl": "https://res.cloudinary.com/stagego/image/upload/v1714093306/xdasp3x2szweedw2lqht.jpg",
+            "imageUrl": "https://res.cloudinary.com/test/image/upload/v1714093306/xdasp3x2szweedw2lqht.jpg",
             "link": "/categories?id=104603",
-            "defaultImageUrlIfImageCommentDoesNotExist": "https://res.cloudinary.com/stagego/image/upload/v1650988108/oog8zii60cjm8v4ixg7i.jpg"
+            "defaultImageUrlIfImageCommentDoesNotExist": "https://res.cloudinary.com/test/image/upload/v1650988108/oog8zii60cjm8v4ixg7i.jpg"
           },
           "venue": {
             "id": 26781,
@@ -5072,9 +5072,9 @@
             "parentCategoryId": 1,
             "description": null,
             "imageComment": null,
-            "imageUrl": "https://res.cloudinary.com/stagego/image/upload/v1707184875/dgxqehu0rfcmpdrcx5ac.png",
+            "imageUrl": "https://res.cloudinary.com/test/image/upload/v1707184875/dgxqehu0rfcmpdrcx5ac.png",
             "link": "/categories?id=37406",
-            "defaultImageUrlIfImageCommentDoesNotExist": "https://res.cloudinary.com/stagego/image/upload/v1650988092/qd7mfwfspypu1orobujl.jpg"
+            "defaultImageUrlIfImageCommentDoesNotExist": "https://res.cloudinary.com/test/image/upload/v1650988092/qd7mfwfspypu1orobujl.jpg"
           },
           "venue": {
             "id": 26787,
