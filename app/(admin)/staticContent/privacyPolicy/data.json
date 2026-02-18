@@ -1,0 +1,506 @@
+{
+    "translateArray": [
+        {
+            "contentHtml": "<h1>Privacyverklaring Test</h1>",
+            "languageId": 294,
+            "id": 3,
+            "createDate": "2019-11-07T15:14:30.1377221+01:00",
+            "updateDate": "2024-05-29T07:04:08.9772307+02:00",
+            "createdBy": 24,
+            "updatedBy": null,
+            "streamId": "467e5a11-a2bf-47c9-8feb-47954f8bfa91",
+            "language": {
+                "name": "Dutch",
+                "nativeName": "Nederlands",
+                "codeIso369_1": "nl",
+                "codeIso369_2": "nld",
+                "languageCountryCode": "nl-NL",
+                "visibleForSiteSettings": true,
+                "flagUrl": "https://restcountries.eu/data/nld.svg",
+                "isDeleted": false,
+                "id": 294,
+                "createDate": "2019-11-07T15:14:30.1377221+01:00",
+                "updateDate": "2019-11-07T15:14:30.1377221+01:00",
+                "createdBy": null,
+                "updatedBy": 36,
+                "streamId": "bc72d0bd-81c8-4016-ad31-752916610e5e"
+            }
+        },
+        {
+          "contentHtml": "<h1>Privacy statement Test</h1>",
+          "languageId": 364,
+          "id": 4,
+          "createDate": "2021-02-18T09:21:56.4290694+01:00",
+          "updateDate": "2024-05-29T07:10:01.8507012+02:00",
+          "createdBy": 36,
+          "updatedBy": null,
+          "streamId": "d30fec0c-b091-43ce-9913-b85bc6074494",
+          "language": {
+            "name": "English",
+            "nativeName": "English",
+            "codeIso369_1": "en",
+            "codeIso369_2": "eng",
+            "languageCountryCode": "en-US",
+            "visibleForSiteSettings": true,
+            "flagUrl": "https://restcountries.eu/data/usa.svg",
+            "isDeleted": false,
+            "id": 364,
+            "createDate": "2019-11-07T15:14:30.1377221+01:00",
+            "updateDate": "2019-11-07T15:14:30.1377221+01:00",
+            "createdBy": null,
+            "updatedBy": 36,
+            "streamId": "1fbfaae7-d4c1-4a9f-ad15-1c0feca605a1"
+          }
+        }
+    ],
+    "countryArray": [
+        {
+          "name": "Slovene",
+          "id": 3
+        },
+        {
+          "name": "Fula",
+          "id": 4
+        },
+        {
+          "name": "Catalan",
+          "id": 5
+        },
+        {
+          "name": "Kirundi",
+          "id": 10
+        },
+        {
+          "name": "Slovak",
+          "id": 14
+        },
+        {
+          "name": "Belarusian",
+          "id": 15
+        },
+        {
+          "name": "Bulgarian",
+          "id": 17
+        },
+        {
+          "name": "Venda",
+          "id": 19
+        },
+        {
+          "name": "Tsonga",
+          "id": 20
+        },
+        {
+          "name": "Tswana",
+          "id": 21
+        },
+        {
+          "name": "Swati",
+          "id": 22
+        },
+        {
+          "name": "Southern Sotho",
+          "id": 23
+        },
+        {
+          "name": "Samoan",
+          "id": 25
+        },
+        {
+          "name": "Southern Ndebele",
+          "id": 26
+        },
+        {
+          "name": "Afrikaans",
+          "id": 27
+        },
+        {
+          "name": "Malay",
+          "id": 29
+        },
+        {
+          "name": "Somali",
+          "id": 32
+        },
+        {
+          "name": "Xhosa",
+          "id": 37
+        },
+        {
+          "name": "Turkmen",
+          "id": 38
+        },
+        {
+          "name": "Bengali",
+          "id": 41
+        },
+        {
+          "name": "Uzbek",
+          "id": 42
+        },
+        {
+          "name": "Pashto",
+          "id": 44
+        },
+        {
+          "name": "Shona",
+          "id": 52
+        },
+        {
+          "name": "Sango",
+          "id": 54
+        },
+        {
+          "name": "Tamil",
+          "id": 58
+        },
+        {
+          "name": "Khmer",
+          "id": 63
+        },
+        {
+          "name": "Turkish",
+          "id": 64
+        },
+        {
+          "name": "Zulu",
+          "id": 76
+        },
+        {
+          "name": "Tonga (Tonga Islands)",
+          "id": 78
+        },
+        {
+          "name": "Aymara",
+          "id": 80
+        },
+        {
+          "name": "Quechua",
+          "id": 82
+        },
+        {
+          "name": "Armenian",
+          "id": 85
+        },
+        {
+          "name": "Bosnian",
+          "id": 92
+        },
+        {
+          "name": "Swedish",
+          "id": 93
+        },
+        {
+          "name": "Ukrainian",
+          "id": 99
+        },
+        {
+          "name": "Thai",
+          "id": 103
+        },
+        {
+          "name": "(Eastern) Punjabi",
+          "id": 110
+        },
+        {
+          "name": "Dzongkha",
+          "id": 111
+        },
+        {
+          "name": "Tajik",
+          "id": 114
+        },
+        {
+          "name": "Korean",
+          "id": 127
+        },
+        {
+          "name": "Azerbaijani",
+          "id": 132
+        },
+        {
+          "name": "Vietnamese",
+          "id": 134
+        },
+        {
+          "name": "Bislama",
+          "id": 137
+        },
+        {
+          "name": "Sinhalese",
+          "id": 138
+        },
+        {
+          "name": "Guaraní",
+          "id": 139
+        },
+        {
+          "name": "Norwegian",
+          "id": 147
+        },
+        {
+          "name": "Norwegian Bokmål",
+          "id": 149
+        },
+        {
+          "name": "Norwegian Nynorsk",
+          "id": 153
+        },
+        {
+          "name": "Marshallese",
+          "id": 163
+        },
+        {
+          "name": "Maltese",
+          "id": 166
+        },
+        {
+          "name": "Chamorro",
+          "id": 170
+        },
+        {
+          "name": "Malaysian",
+          "id": 173
+        },
+        {
+          "name": "Chichewa",
+          "id": 175
+        },
+        {
+          "name": "Malagasy",
+          "id": 178
+        },
+        {
+          "name": "Haitian",
+          "id": 181
+        },
+        {
+          "name": "Divehi",
+          "id": 182
+        },
+        {
+          "name": "Macedonian",
+          "id": 183
+        },
+        {
+          "name": "Croatian",
+          "id": 190
+        },
+        {
+          "name": "Albanian",
+          "id": 191
+        },
+        {
+          "name": "Serbian",
+          "id": 193
+        },
+        {
+          "name": "Georgian",
+          "id": 194
+        },
+        {
+          "name": "Mongolian",
+          "id": 195
+        },
+        {
+          "name": "Romanian",
+          "id": 199
+        },
+        {
+          "name": "Greek (modern)",
+          "id": 202
+        },
+        {
+          "name": "Kalaallisut",
+          "id": 203
+        },
+        {
+          "name": "Kyrgyz",
+          "id": 212
+        },
+        {
+          "name": "Persian (Farsi)",
+          "id": 215
+        },
+        {
+          "name": "Kurdish",
+          "id": 218
+        },
+        {
+          "name": "Swahili",
+          "id": 219
+        },
+        {
+          "name": "Irish",
+          "id": 221
+        },
+        {
+          "name": "Kazakh",
+          "id": 224
+        },
+        {
+          "name": "Manx",
+          "id": 227
+        },
+        {
+          "name": "Hebrew (modern)",
+          "id": 230
+        },
+        {
+          "name": "Japanese",
+          "id": 232
+        },
+        {
+          "name": "Italian",
+          "id": 233
+        },
+        {
+          "name": "Russian",
+          "id": 234
+        },
+        {
+          "name": "Indonesian",
+          "id": 235
+        },
+        {
+          "name": "Lao",
+          "id": 236
+        },
+        {
+          "name": "Latin",
+          "id": 238
+        },
+        {
+          "name": "Luxembourgish",
+          "id": 239
+        },
+        {
+          "name": "Lithuanian",
+          "id": 244
+        },
+        {
+          "name": "German",
+          "id": 245
+        },
+        {
+          "name": "Chinese",
+          "id": 250
+        },
+        {
+          "name": "Hungarian",
+          "id": 252
+        },
+        {
+          "name": "Northern Ndebele",
+          "id": 255
+        },
+        {
+          "name": "Icelandic",
+          "id": 256
+        },
+        {
+          "name": "Hindi",
+          "id": 259
+        },
+        {
+          "name": "Latvian",
+          "id": 260
+        },
+        {
+          "name": "Portuguese",
+          "id": 262
+        },
+        {
+          "name": "Burmese",
+          "id": 264
+        },
+        {
+          "name": "Polish",
+          "id": 274
+        },
+        {
+          "name": "Czech",
+          "id": 286
+        },
+        {
+          "name": "Luba-Katanga",
+          "id": 288
+        },
+        {
+          "name": "Dutch",
+          "id": 294
+        },
+        {
+          "name": "Lingala",
+          "id": 306
+        },
+        {
+          "name": "Kinyarwanda",
+          "id": 309
+        },
+        {
+          "name": "Kongo",
+          "id": 313
+        },
+        {
+          "name": "Amharic",
+          "id": 318
+        },
+        {
+          "name": "Māori",
+          "id": 322
+        },
+        {
+          "name": "Faroese",
+          "id": 324
+        },
+        {
+          "name": "Fijian",
+          "id": 327
+        },
+        {
+          "name": "Urdu",
+          "id": 330
+        },
+        {
+          "name": "Nepali",
+          "id": 331
+        },
+        {
+          "name": "Finnish",
+          "id": 332
+        },
+        {
+          "name": "Nauruan",
+          "id": 333
+        },
+        {
+          "name": "Estonian",
+          "id": 341
+        },
+        {
+          "name": "French",
+          "id": 344
+        },
+        {
+          "name": "Arabic",
+          "id": 354
+        },
+        {
+          "name": "Spanish",
+          "id": 358
+        },
+        {
+          "name": "English",
+          "id": 364
+        },
+        {
+          "name": "Tigrinya",
+          "id": 365
+        },
+        {
+          "name": "Danish",
+          "id": 367
+        }
+      ]
+}

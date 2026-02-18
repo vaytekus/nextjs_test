@@ -1,0 +1,86 @@
+{
+    "@odata.context": "https://admin.fake/odata/$metadata#Roles",
+    "@odata.count": 9,
+    "value": [
+        {
+            "id": 1,
+            "createDate": "2019-11-07T15:14:30.1377221+01:00",
+            "updateDate": "2019-11-07T15:14:30.1377221+01:00",
+            "createdBy": null,
+            "updatedBy": null,
+            "name": "Users",
+            "normalizedName": "USERS",
+            "concurrencyStamp": "8877b040-42c2-4827-9f28-6668fad02455"
+        },
+        {
+            "id": 3,
+            "createDate": "2019-11-07T15:14:30.1377221+01:00",
+            "updateDate": "2019-11-07T15:14:30.1377221+01:00",
+            "createdBy": null,
+            "updatedBy": null,
+            "name": "TtsSeller",
+            "normalizedName": "TTSSELLER",
+            "concurrencyStamp": "539ae097-8915-4d11-a826-d74c8e0aa055"
+        },
+        {
+            "id": 4,
+            "createDate": "2019-11-07T15:14:30.1377221+01:00",
+            "updateDate": "2019-11-07T15:14:30.1377221+01:00",
+            "createdBy": null,
+            "updatedBy": null,
+            "name": "Admin",
+            "normalizedName": "ADMIN",
+            "concurrencyStamp": "d11fbdd7-bc4a-4b33-93f7-f55a41ec0b98"
+        },
+        {
+            "id": 5,
+            "createDate": "2020-02-24T15:39:32.3188502+01:00",
+            "updateDate": "2020-02-24T15:39:32.3188502+01:00",
+            "createdBy": 24,
+            "updatedBy": 24,
+            "name": "MapsSupervisorAdmin",
+            "normalizedName": "MAPSSUPERVISORADMIN",
+            "concurrencyStamp": "b208f6bc-6d38-408c-a551-e02e4a425d04"
+        },
+        {
+            "id": 6,
+            "createDate": "2020-02-25T11:00:08.8273635+01:00",
+            "updateDate": "2020-02-25T11:00:08.8273635+01:00",
+            "createdBy": 24,
+            "updatedBy": 24,
+            "name": "Translator",
+            "normalizedName": "TRANSLATOR",
+            "concurrencyStamp": "c3daccc5-431d-4683-8d12-ed76bd67d7ce"
+        },
+        {
+            "id": 7,
+            "createDate": "2020-11-16T14:38:44.7214365+01:00",
+            "updateDate": "2020-11-16T14:38:44.7214365+01:00",
+            "createdBy": 36,
+            "updatedBy": 36,
+            "name": "SuperAdmin",
+            "normalizedName": "SUPERADMIN",
+            "concurrencyStamp": "c85dbcac-97a3-4960-8ee6-9b4ab4eb1ff0"
+        },
+        {
+            "id": 8,
+            "createDate": "2020-11-24T15:06:40.8095986+01:00",
+            "updateDate": "2020-11-24T15:06:40.8095986+01:00",
+            "createdBy": 24,
+            "updatedBy": 24,
+            "name": "ManageInvalidListingAdmin",
+            "normalizedName": "MANAGEINVALIDLISTINGADMIN",
+            "concurrencyStamp": "4e33b1cc-562c-44e1-917c-829458e06418"
+        },
+        {
+            "id": 9,
+            "createDate": "2023-02-22T17:55:57.0065509+01:00",
+            "updateDate": "2023-02-22T17:55:57.0065509+01:00",
+            "createdBy": 24,
+            "updatedBy": 24,
+            "name": "Developer",
+            "normalizedName": "DEVELOPER",
+            "concurrencyStamp": "569c9699-9675-4103-906a-089148cc1f88"
+        }
+    ]
+}
